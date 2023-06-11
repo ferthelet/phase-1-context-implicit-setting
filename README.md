@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-* Learn how JavaScript implicitly sets execution context
+* Learn how JavaScript implicitly sets execution context.
 
 ## Introduction
 
